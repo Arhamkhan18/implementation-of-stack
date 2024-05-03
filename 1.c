@@ -1,3 +1,5 @@
+//impementation of ADT of stack using arrays
+
 #include <stdio.h>
 #define MAX_SIZE 100
 
