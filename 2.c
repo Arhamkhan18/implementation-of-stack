@@ -1,3 +1,5 @@
+//implementation of ADT of stack using linked list
+
 #include <stdio.h>
 #include <stdlib.h>
 
