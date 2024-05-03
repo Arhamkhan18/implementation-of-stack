@@ -1,3 +1,5 @@
+//implementation of the stack ADT (using arrays) to evaluate postfix expressions (as discussed in the class)
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
